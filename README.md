@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Prince kumar and I'm a 🔍Data Analytic from India.<br><br>- 🔭 I’m working as data analytic🌐<br>- 📚 I'm currently learning docker🐳<br>- ⚡ In my free time I am playing chess♟️</p>
+<p align="left">I'm Prince kumar and I'm a 🔍Full stack developer from India.<br><br>- 🔭 I’m working as data and apps 🌐<br>- 📚 I'm currently learning docker🐳<br>- ⚡ In my free time I am playing chess♟️</p>
 
 ###
 
